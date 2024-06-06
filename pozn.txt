@@ -1,0 +1,49 @@
+Zjistěte faktory, které vedou k úbytku zaměstnanců, a prozkoumejte důležité otázky,
+jako například "ukažte mi rozložení vzdálenosti od domova podle pracovní pozice a úbytku zaměstnanců"
+nebo "porovnejte průměrný měsíční příjem podle vzdělání a úbytku zaměstnanců".
+Jedná se o fiktivní soubor dat vytvořený datovými vědci společnosti IBM.
+
+Vzdělání
+1 "Méně než středoškolské vzdělání
+2 "Vysokoškolské
+3 "Bakalářské
+4 "Magisterské
+5 "Doktor
+
+ProstředíSpokojenost
+1 "nízká
+2 "Střední
+3 "Vysoká
+4 "velmi vysoká
+
+Zapojení do práce
+1 "nízká
+2 "Střední
+3 "vysoká
+4 "velmi vysoká
+
+Spokojenost s prací
+1 "nízká
+2 "střední
+3 "vysoká
+4 "velmi vysoká
+
+Hodnocení výkonu
+1 "nízká
+2 "dobré
+3 "výborné
+4 "Výborné
+
+Spokojenost se vztahy
+1 "nízká
+2 "střední
+3 "vysoká
+4 "velmi vysoká
+
+Rovnováha mezi pracovním a soukromým životem
+1 "Špatný
+2 "dobrý
+3 "lepší
+4 "Nejlepší
+
+Translated with www.DeepL.com/Translator (free version)
